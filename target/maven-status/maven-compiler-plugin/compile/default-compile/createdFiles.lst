@@ -1,0 +1,10 @@
+pokemon/pojo/Pokemon.class
+pokemon/util/BodyWritter.class
+pokemon/util/Constants.class
+pokemon/pojo/BasePokemon.class
+pokemon/repository/PokemonRepo.class
+pokemon/util/CreateUtil.class
+pokemon/startup/PokemonStartup.class
+pokemon/util/BodyReader.class
+pokemon/resources/PokemonResource.class
+pokemon/util/PokemonMapper.class
